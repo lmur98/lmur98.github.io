@@ -29,4 +29,4 @@ My research focuses on video understanding, video–language learning, and 4D sc
 
 During my PhD, I developed visual models for segmentation, detection, forecasting, and representation learning, leading to **six first-author publications at top-tier computer vision venues**, including ICRA 2023, ICCV 2023, IROS 2023, ECCV 2024, CVPR 2025, ICCV 2025 and **2 journals (CVIU and T-PAMI)**.
 
-In the last 6 months, I was a Research Scientist intern at Meta AI (FAIR) in Paris, where I work with Adrien Bardes and Yann LeCun on the next generation of V-JEPA, a state-of-the-art architecture for large-scale self-supervised video understanding.
+In the last 6 months, **I was a Research Scientist intern at Meta AI (FAIR) in Paris, where I work with Adrien Bardes and Yann LeCun** on large-scale self-supervised video understanding.
