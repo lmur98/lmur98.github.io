@@ -11,7 +11,9 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+{%- comment -%}
 {% include bib_search.liquid %}
+{%- endcomment -%}
 
 <div class="publications">
 
