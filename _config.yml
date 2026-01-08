@@ -148,6 +148,12 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
+social:
+  email: lmur@unizar.es
+  linkedin: lorenzo-mur-labadia
+  github: lmur98
+  google_scholar: pXUM5oUAAAAJ
+
 collections:
   books:
     output: true
