@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-23'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
     citations: 12
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
-    citations: 28
+    citations: 29
     title: Multi-label affordance mapping from egocentric vision
     year: '2023'
   pXUM5oUAAAAJ:IjCSPb-OGe4C:
@@ -37,8 +37,12 @@ papers:
     citations: 0
     title: Uncertainty Estimation in Instance Segmentation of Affordances Via Bayesian Visual Transformers
     year: Unknown Year
+  pXUM5oUAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Integrating Affordances and Attention models for Short-Term Object Interaction Anticipation
+    year: Unknown Year
   pXUM5oUAAAAJ:d1gkVwhDpl0C:
-    citations: 17
+    citations: 18
     title: Robust fusion for bayesian semantic mapping
     year: '2023'
   pXUM5oUAAAAJ:eQOLeE2rZwMC:
