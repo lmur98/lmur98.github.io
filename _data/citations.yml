@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-16'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
     citations: 12
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
-    citations: 29
+    citations: 30
     title: Multi-label affordance mapping from egocentric vision
     year: '2023'
   pXUM5oUAAAAJ:IjCSPb-OGe4C:
@@ -22,7 +22,7 @@ papers:
     title: 'ZARRIO@ Ego4D Short Term Object Interaction Anticipation Challenge: Leveraging Affordances and Attention-based models for STA'
     year: '2024'
   pXUM5oUAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 3
     title: Robust fusion for bayesian semantic mapping. In 2023 IEEE
     year: Unknown Year
   pXUM5oUAAAAJ:WF5omc3nYNoC:
@@ -30,8 +30,8 @@ papers:
     title: Random rotational embedding Bayesian optimization for human-in-the-loop personalized music generation
     year: '2025'
   pXUM5oUAAAAJ:Y0pCki6q_DkC:
-    citations: 0
-    title: 'O-MaMa@ EgoExo4D Correspondence Challenge: Learning Object Mask Matching between Egocentric and Exocentric Views'
+    citations: 3
+    title: 'O-mama: Learning object mask matching between egocentric and exocentric views'
     year: '2025'
   pXUM5oUAAAAJ:YsMSGLbcyi4C:
     citations: 0
@@ -45,13 +45,9 @@ papers:
     citations: 18
     title: Robust fusion for bayesian semantic mapping
     year: '2023'
-  pXUM5oUAAAAJ:eQOLeE2rZwMC:
-    citations: 3
-    title: 'O-mama: Learning object mask matching between egocentric and exocentric views'
-    year: '2025'
   pXUM5oUAAAAJ:qjMakFHDy7sC:
     citations: 2
-    title: 'CARLOR@ Ego4D Step Grounding Challenge: Bayesian temporal-order priors for test time refinement'
+    title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
     citations: 18
