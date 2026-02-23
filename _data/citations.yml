@@ -1,18 +1,22 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-23'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
-    citations: 12
+    citations: 13
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
-    citations: 30
+    citations: 31
     title: Multi-label affordance mapping from egocentric vision
     year: '2023'
   pXUM5oUAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: 'DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos'
     year: '2025'
+  pXUM5oUAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'GPianoroll: a Deep Learning System with Human Feedback for Music Generation'
+    year: '2024'
   pXUM5oUAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: 'DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos Supplementary Material'
@@ -50,7 +54,7 @@ papers:
     title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
-    citations: 18
+    citations: 19
     title: Bayesian deep learning for affordance segmentation in images
     year: '2023'
   pXUM5oUAAAAJ:u5HHmVD_uO8C:
