@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-20'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
     citations: 13
@@ -54,7 +54,7 @@ papers:
     title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
-    citations: 19
+    citations: 20
     title: Bayesian deep learning for affordance segmentation in images
     year: '2023'
   pXUM5oUAAAAJ:u5HHmVD_uO8C:
