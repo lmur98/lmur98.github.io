@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-30'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
     citations: 13
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
-    citations: 31
+    citations: 32
     title: Multi-label affordance mapping from egocentric vision
     year: '2023'
   pXUM5oUAAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: Random rotational embedding Bayesian optimization for human-in-the-loop personalized music generation
     year: '2025'
   pXUM5oUAAAAJ:Y0pCki6q_DkC:
-    citations: 3
+    citations: 4
     title: 'O-mama: Learning object mask matching between egocentric and exocentric views'
     year: '2025'
   pXUM5oUAAAAJ:YsMSGLbcyi4C:
