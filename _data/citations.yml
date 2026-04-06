@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-06'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
-    citations: 13
+    citations: 14
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
@@ -54,7 +54,7 @@ papers:
     title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:roLk4NBRz8UC:
-    citations: 0
+    citations: 1
     title: 'V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning'
     year: '2026'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
