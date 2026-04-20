@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-20'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
     citations: 14
@@ -34,11 +34,11 @@ papers:
     title: Random rotational embedding Bayesian optimization for human-in-the-loop personalized music generation
     year: '2025'
   pXUM5oUAAAAJ:Y0pCki6q_DkC:
-    citations: 4
+    citations: 5
     title: 'O-mama: Learning object mask matching between egocentric and exocentric views'
     year: '2025'
   pXUM5oUAAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: Uncertainty Estimation in Instance Segmentation of Affordances Via Bayesian Visual Transformers
     year: Unknown Year
   pXUM5oUAAAAJ:_FxGoFyzp5QC:
