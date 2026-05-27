@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-27'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
-    citations: 14
+    citations: 15
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
@@ -34,7 +34,7 @@ papers:
     title: Random rotational embedding Bayesian optimization for human-in-the-loop personalized music generation
     year: '2025'
   pXUM5oUAAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 6
     title: 'O-mama: Learning object mask matching between egocentric and exocentric views'
     year: '2025'
   pXUM5oUAAAAJ:YsMSGLbcyi4C:
@@ -54,7 +54,7 @@ papers:
     title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:roLk4NBRz8UC:
-    citations: 7
+    citations: 19
     title: 'V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning'
     year: '2026'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
