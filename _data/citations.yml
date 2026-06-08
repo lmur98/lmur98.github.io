@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-08'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
     citations: 15
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
-    citations: 32
+    citations: 34
     title: Multi-label affordance mapping from egocentric vision
     year: '2023'
   pXUM5oUAAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: 'DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos'
     year: '2025'
   pXUM5oUAAAAJ:LkGwnXOMwfcC:
@@ -34,13 +34,13 @@ papers:
     title: Random rotational embedding Bayesian optimization for human-in-the-loop personalized music generation
     year: '2025'
   pXUM5oUAAAAJ:Y0pCki6q_DkC:
-    citations: 6
+    citations: 7
     title: 'O-mama: Learning object mask matching between egocentric and exocentric views'
     year: '2025'
   pXUM5oUAAAAJ:YsMSGLbcyi4C:
     citations: 1
-    title: Uncertainty Estimation in Instance Segmentation of Affordances via Bayesian Visual Transformers
-    year: '2026'
+    title: Uncertainty Estimation in Instance Segmentation of Affordances Via Bayesian Visual Transformers
+    year: Unknown Year
   pXUM5oUAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: Integrating Affordances and Attention models for Short-Term Object Interaction Anticipation
@@ -50,15 +50,15 @@ papers:
     title: Robust fusion for bayesian semantic mapping
     year: '2023'
   pXUM5oUAAAAJ:qjMakFHDy7sC:
-    citations: 2
+    citations: 3
     title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:roLk4NBRz8UC:
-    citations: 19
+    citations: 23
     title: 'V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning'
     year: '2026'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
-    citations: 20
+    citations: 21
     title: Bayesian deep learning for affordance segmentation in images
     year: '2023'
   pXUM5oUAAAAJ:u5HHmVD_uO8C:
