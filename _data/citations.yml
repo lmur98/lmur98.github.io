@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-01'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
     citations: 15
@@ -30,17 +30,17 @@ papers:
     title: Robust fusion for bayesian semantic mapping. In 2023 IEEE
     year: Unknown Year
   pXUM5oUAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: Random rotational embedding Bayesian optimization for human-in-the-loop personalized music generation
     year: '2025'
   pXUM5oUAAAAJ:Y0pCki6q_DkC:
-    citations: 7
+    citations: 8
     title: 'O-mama: Learning object mask matching between egocentric and exocentric views'
     year: '2025'
   pXUM5oUAAAAJ:YsMSGLbcyi4C:
     citations: 1
-    title: Uncertainty Estimation in Instance Segmentation of Affordances Via Bayesian Visual Transformers
-    year: Unknown Year
+    title: Uncertainty estimation in instance segmentation of affordances via Bayesian visual transformers
+    year: '2026'
   pXUM5oUAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: Integrating Affordances and Attention models for Short-Term Object Interaction Anticipation
@@ -54,7 +54,7 @@ papers:
     title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:roLk4NBRz8UC:
-    citations: 29
+    citations: 34
     title: 'V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning'
     year: '2026'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
