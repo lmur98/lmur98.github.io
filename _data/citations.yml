@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   pXUM5oUAAAAJ:2osOgNQ5qMEC:
-    citations: 16
+    citations: 17
     title: Aff-ttention! affordances and attention models for short-term object interaction anticipation
     year: '2024'
   pXUM5oUAAAAJ:9yKSN-GCB0IC:
@@ -22,7 +22,7 @@ papers:
     title: 'DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos Supplementary Material'
     year: Unknown Year
   pXUM5oUAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: 'ZARRIO@ Ego4D Short Term Object Interaction Anticipation Challenge: Leveraging Affordances and Attention-based models for STA'
     year: '2024'
   pXUM5oUAAAAJ:W7OEmFMy1HYC:
@@ -42,7 +42,7 @@ papers:
     title: Uncertainty Estimation in Instance Segmentation of Affordances Via Bayesian Visual Transformers
     year: '2025'
   pXUM5oUAAAAJ:_FxGoFyzp5QC:
-    citations: 0
+    citations: 1
     title: Integrating Affordances and Attention models for Short-Term Object Interaction Anticipation
     year: '2026'
   pXUM5oUAAAAJ:d1gkVwhDpl0C:
@@ -54,7 +54,7 @@ papers:
     title: 'CARLOR@ Ego4D step grounding challenge: Bayesian temporal-order priors for test time refinement'
     year: '2024'
   pXUM5oUAAAAJ:roLk4NBRz8UC:
-    citations: 72
+    citations: 74
     title: 'V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning'
     year: '2026'
   pXUM5oUAAAAJ:u-x6o8ySG0sC:
